@@ -8,4 +8,12 @@ yarn add --dev @babel/plugin-proposal-decorators
 yarn add react-native-svg react-native-chart-kit
 ```
 
+<br/><br/><br/>
+### watermelonDB setup (ios)
+https://nozbe.github.io/WatermelonDB/Installation.html#ios-react-native
+<br/>
+```pod install```
 
+<br/><br/>
+### watermelonDB setup (android)
+https://nozbe.github.io/WatermelonDB/Installation.html#android-react-native
